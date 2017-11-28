@@ -1,0 +1,7 @@
+#pragma once
+
+
+enum operacje { DODAWANIE, ODEJMOWANIE, MNOZENIE, DZIELENIE,
+MODULO, POTEGA, AND, OR};
+
+enum status { WYNIK, BLAD, POWITANIE, KONIEC };

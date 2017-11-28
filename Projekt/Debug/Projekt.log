@@ -1,0 +1,3 @@
+﻿  Serwer.cpp
+c:\users\filip\desktop\ts\projekt\projekt\projekt\serwer.cpp(255): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Projekt.vcxproj -> C:\Users\Filip\Desktop\TS\PROJEKT\Projekt\Debug\Projekt.exe

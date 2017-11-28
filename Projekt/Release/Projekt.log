@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Klient.cpp
+  Projekt.cpp
+  Serwer.cpp
+  Generating code
+  405 of 435 functions (93.1%) were compiled, the rest were copied from previous compilation.
+    247 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Projekt.vcxproj -> C:\Users\Filip\Desktop\TS\PROJEKT\Projekt\Release\Projekt.exe
